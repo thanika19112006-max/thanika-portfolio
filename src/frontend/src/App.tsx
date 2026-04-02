@@ -113,7 +113,7 @@ const PROJECTS: Project[] = [
       "A clean, user-friendly e-commerce platform with intuitive product browsing, cart management, and a smooth checkout experience.",
     tech: ["HTML", "CSS", "JavaScript"],
     category: "web",
-    link: "https://gentlecart-commerce-bvv5uvbql-thanika19112006-maxs-projects.vercel.app",
+    link: "http://gentlecart-commerce-gules.vercel.app/#",
   },
   {
     id: 11,
@@ -122,7 +122,7 @@ const PROJECTS: Project[] = [
       "Modern UI redesign concept for KFC's website with improved user flows and visual hierarchy.",
     tech: ["Figma"],
     category: "uiux",
-    link: "https://www.figma.com/design/rAf5ssDcxW94jmXsMKczwe/KFC-Website?node-id=1-2&t=TLeJB2QOUFMiquYq-0",
+    link: "https://www.figma.com/design/rAf5ssDcxW94jmXsMKczwe/KFC-Website?node-id=0-1&p=f&t=IVjfQo1FKWdUjfdW-0",
   },
   {
     id: 12,
